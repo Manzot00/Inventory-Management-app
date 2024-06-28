@@ -1,0 +1,7 @@
+Customer: Chris Martinez
+Date: 2024-03-17 19:08:37
+
+Items: 
+10 	Resistance Bands 	14.99
+
+Total: $149.9

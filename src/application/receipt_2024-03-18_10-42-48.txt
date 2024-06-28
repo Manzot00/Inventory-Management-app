@@ -1,0 +1,9 @@
+Customer: Michelle Rodriguez
+Date: 2024-03-18 10:42:48
+
+Items: 
+2 	Dumbbell Set 	49.99
+1 	Smart Watch 	199.99
+1 	Resistance Bands 	14.99
+
+Total: $314.96

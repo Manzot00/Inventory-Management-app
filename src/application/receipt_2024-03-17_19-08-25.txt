@@ -1,0 +1,9 @@
+Customer: Bob Johnson
+Date: 2024-03-17 19:08:25
+
+Items: 
+2 	Gaming Mouse 	59.99
+1 	External Hard Drive 	89.99
+4 	Coffee Maker 	129.99
+
+Total: $729.93

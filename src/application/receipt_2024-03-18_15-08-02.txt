@@ -1,0 +1,7 @@
+Customer: Sarah Wilson
+Date: 2024-03-18 15:08:02
+
+Items: 
+3 	Resistance Bands 	14.99
+
+Total: $44.97

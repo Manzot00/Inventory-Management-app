@@ -1,0 +1,9 @@
+Customer: Jennifer Taylor
+Date: 2024-03-22 13:52:07
+
+Items: 
+1 	Running Jacket 	69.99
+2 	Smart Watch 	199.99
+1 	Smartphone 	499.99
+
+Total: $969.96

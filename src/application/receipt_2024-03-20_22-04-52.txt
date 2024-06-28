@@ -1,0 +1,7 @@
+Customer: null
+Date: 2024-03-20 22:04:52
+
+Items: 
+1 	Wireless Earbuds 	89.99
+
+Total: $89.99

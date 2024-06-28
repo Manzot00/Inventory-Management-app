@@ -1,0 +1,61 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.top-formn{
+	-fx-background-color:#fff;
+	-fx-border-color:#000;
+	-fx-border-width:.4px .4px .2px .4px;
+}
+
+.nav-form{
+	-fx-background-color:linear-gradient(to bottom right, #23825e, #484a26);
+}
+
+.nav-button{
+	-fx-background-color:transparent;
+	-fx-cursor:hand;
+	-fx-font-family:"Arial";
+	-fx-font-size:15px;
+	-fx-text-fill:#fff;
+	-fx-alignment:center-left;
+}
+
+.logout{
+	-fx-background-color:#139662;
+	-fx-background-radius:10px;
+	-fx-cursor:hand;
+}
+
+.logout:hover{
+	-fx-background-color:#0ab570;
+}
+
+.shadow{
+	-fx-effect:dropshadow(three-pass-box, rgba(0,0,0,0.4), 5,0,0,0);
+}
+
+.white-bg{
+	-fx-background-color:#fff;
+	-fx-background-radius:8px;
+}
+
+.table-view{
+	-fx-background-color:transparent;
+	-fx-padding:0px;
+	-fx-border-color:linear-gradient(to bottom right, #23825e, #484a26);
+	-fx-border-radius: 8px;
+	-fx-border-width:2px;
+}
+
+.table-view .column-header-background{
+	-fx-background-color:linear-gradient(to bottom right, #23825e, #484a26);
+}
+
+.table-view .column-header, .filter{
+	-fx-background-color:transparent;
+	-fx-size:40px;
+}
+
+.table-view .column-header .label{
+	-fx-text-fill:#fff;
+	-fx-font-family:"Arial"
+}

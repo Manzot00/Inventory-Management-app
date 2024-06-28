@@ -1,0 +1,7 @@
+Customer: null
+Date: 2024-03-20 22:05:12
+
+Items: 
+2 	Graphic T-Shirt 	19.99
+
+Total: $39.98

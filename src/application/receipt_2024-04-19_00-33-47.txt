@@ -1,0 +1,7 @@
+Customer: Emily Davis
+Date: 2024-04-19 00:33:47
+
+Items: 
+2 	Bluetooth Speaker 	129.99
+
+Total: $259.98

@@ -1,0 +1,8 @@
+Customer: Chris Martinez
+Date: 2024-03-20 21:48:19
+
+Items: 
+1 	Wireless Keyboard 	69.99
+1 	Dumbbell Set 	49.99
+
+Total: $119.98

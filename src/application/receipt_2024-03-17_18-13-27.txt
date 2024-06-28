@@ -1,0 +1,7 @@
+Customer: null
+Date: 2024-03-17 18:13:27
+
+Items: 
+2 	Backpack 	39.99
+
+Total: $79.98
