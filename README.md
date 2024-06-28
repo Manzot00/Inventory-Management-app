@@ -14,9 +14,9 @@ Se questi passi sono rispettati basterà avviare il “Main.java” per far part
 
 # LOGIN
 Una volta avviato il programma ci si troverà nella schermata di login. Gli utenti abilitati all’accesso sono:
-•	Username: admin1	Password: password1
-•	Username: admin2	Password: password2
-•	Username: admin3	Password: password3
+- Username: admin1	Password: password1
+-	Username: admin2	Password: password2
+-	Username: admin3	Password: password3
 Se vengono inserite queste credenziali, premendo sul pulsante “Login”, si potrà accedere alle funzionalità del programma, altrimenti verrà visualizzato un messaggio di errore.
 Inoltre, è possibile chiudere il programma in qualsiasi momento premendo sulla X della finestra.
 Un alert comparirà chiedendoci conferma.
@@ -25,10 +25,10 @@ Un alert comparirà chiedendoci conferma.
 Effettuato il login ci si troverà nella schermata HOME dove potremo visualizzare il numero di ordini effettuati, il guadagno totale e il numero di Item che hanno una quantità minore di 10.
 Sotto di essi ci sono 2 chart che rappresentano il guadagno e il numero di ordini nel tempo.
 Sulla sinistra invece sono presenti 4 tasti per navigare tra le funzionalità del programma:
-•	HOME (la schermata di partenza dove ci si trova una volta loggati)
-•	MANAGE ITEMS
-•	ORDERS
-•	SIGN OUT (tasto per effettuare il logout e tornare alla schermata di login)
+-	HOME (la schermata di partenza dove ci si trova una volta loggati)
+-	MANAGE ITEMS
+-	ORDERS
+-	SIGN OUT (tasto per effettuare il logout e tornare alla schermata di login)
 
 # MANAGE ITEMS
 Premendo sul tasto “Manage Items” sulla sinistra ci si troverà nella schermata di gestione degli Item.
